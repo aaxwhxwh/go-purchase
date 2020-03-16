@@ -1,0 +1,14 @@
+mysqluser=
+mysqlpass=
+mysqlurls=
+mysqlport=
+mysqldb=
+
+logfile=logs/server_purchase.log
+separate=["error", "warning", "info"]
+ormdebug=true
+httpaddr="0.0.0.0"
+
+copyrequestbody=true
+
+server_user=http://127.0.0.1:40080/api/server_users/
